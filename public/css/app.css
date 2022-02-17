@@ -1,0 +1,12 @@
+.container-card {
+  display: flex;
+}
+
+.card {
+  background-color: tomato;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0.8em;
+}
+
